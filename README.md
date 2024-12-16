@@ -1,16 +1,26 @@
-# pr8
+Практическая работа 8.
+=================================
+### ФИО: Калагов Марат Владимирович | Группа: ЭФБО-01-22
+### Дисциплина: Программирование корпоративных систем
 
-A new Flutter project.
+***
 
-## Getting Started
+#### Создание сервера.
+На языке go пишем программу которая будет обрабатывать запросы.
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/cf62059f-6c17-48d8-97c7-f7af605d80d2)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+После этого в командной строке запускаем программу
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/94201497-ee95-470f-9bf9-195df2a1798f)
+
+
+![pks8api](https://github.com/user-attachments/assets/a469897d-ccbc-4855-bb96-ac3b7af88702)
+
+
+
+#### Конечный результат
+
+![pks8](https://github.com/user-attachments/assets/d22871b3-5baa-499f-a264-6ee0c2c7a430)
+
